@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">BottonNavKotlin</string>
+    <string name="app_name">Health Tracker</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_setting">Settings</string>
+    <string name="title_log">Logs</string>
+    <string name="title_trend">Trends</string>
 </resources>

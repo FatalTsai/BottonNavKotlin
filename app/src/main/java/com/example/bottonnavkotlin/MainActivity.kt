@@ -69,32 +69,7 @@ class MainActivity : AppCompatActivity() {
             false
         }
 
-        /*
 
-
-        bottomNavigationView.setOnItemReselectedListener(new NavigationBarView.OnItemReselectedListener(){
-
-            @Override
-            public void onNavigationItemReselected(@NonNull MenuItem item) {
-                Log.i("Tag", "click item"+item );
-                switch (item.getItemId()){
-                    case  R.id.dashborad:
-                        startActivity(new Intent(getApplicationContext(),Dashborad.class));
-                        overridePendingTransition(0,0);
-                        return;
-
-                    case  R.id.home:
-
-                        return;
-
-                    case  R.id.about:
-                        startActivity(new Intent(getApplicationContext(),About.class));
-                        overridePendingTransition(0,0);
-                        return;
-                }
-            }
-        });
-        */
 
 
 
